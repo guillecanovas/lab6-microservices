@@ -36,7 +36,7 @@ At this point, we must modify the file `accounts/src/main/resources/application.
 
 Now, we must check that this second accounts service is also registered in __Eureka__ so we just do the same as before.
 
-The screenshot below shows that the new service instance is registed: 
+The screenshot below shows that the new service instance is registered: 
 
 ![](screenshots/registration4444.png)
 
