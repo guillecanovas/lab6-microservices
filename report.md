@@ -34,7 +34,7 @@ Now that the services are properly running, we can connect to `localhost:1111` a
 
 At this point, we must modify the file `accounts/src/main/resources/application.yml` in order to launch a second accounts service instance in the port 4444.
 
-Now, we must check that this second accounts service is also registered in __Eureka__ so we do just the same as before.
+Now, we must check that this second accounts service is also registered in __Eureka__ so we just do the same as before.
 
 The screenshot below shows that the new service instance is registed: 
 
