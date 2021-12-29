@@ -53,5 +53,5 @@ by a PR so other fellow can try it.
 | NIA | User name | Repo | Improvement | Score |
 |-----|-----------|------|-------------|-------|
 |     |           |      |             |       |
-Guillermo Cánovas González | 755848 | [![Build Status](https://github.com/guillecanovas/lab6-microservices/actions/workflows/ci.yml/badge.svg)](https://github.com/guillecanovas/lab6-microservices/actions/workflows/main.yml) | [Report](https://github.com/guillecanovas/lab6-microservices/blob/test/report.md)
+Guillermo Cánovas González | 755848 | [Report](https://github.com/guillecanovas/lab6-microservices/blob/test/report.md)
 
